@@ -1,6 +1,6 @@
 # Hi there, I'm Fabiola! 👋
 
-Welcome to my GitHub profile! I'm a C++ Software Engineer with 5+ years of experience in Computer Vision and industrial systems, currently working in R&D at Cefla on medical imaging applications.
+Welcome to my GitHub profile! I'm a C++ Software Engineer with 5+ years of experience in Computer Vision applied to industrial and medical systems. In my spare time, I enjoy studying and working on personal projects to keep exploring new technologies.
 
 #### About Me
     🔬 Work: Image Processing Developer @ Cefla — R&D, Medical Equipment BU.
