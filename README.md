@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a C++ Software Engineer with 5+ years of exper
 #### About Me
     🔬 Work: Image Processing Developer @ Cefla — R&D, Medical Equipment BU.
     💡 Expertise: C++ Software Engineer with 5+ years in Computer Vision and industrial systems.
-    🛠️ Tech Stack: C++, Python, OpenCV, Cameras, X-Ray, CUDA, PyTorch.
+    🛠️ Tech Stack: C++, Python, OpenCV, Cameras, X-Ray Panels, CUDA, PyTorch.
     🌱 Currently: Backend development & Computer Vision on 2D/3D medical imaging data — from image processing libraries to 3D mesh filtering and X-ray sensor integration.
     🤝 Collaboration: Open to interesting CV/ML projects and research work.
 
